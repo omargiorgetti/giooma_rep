@@ -1,10 +1,9 @@
 {
-	
   "title": "omargiorgetti",
-  "siteUrl": "www.giooma.it",
-  "description": "Web page Omar Giorgetti",
+  "siteUrl": "https://omargiorgetti.it",
+  "description": "Delog, a GatsbyJS and Netlify CMS starter for Designers and Developers",
   "home": {
-    "title": "Hi! I'm Omar Giorgetti",
-    "description": ""
+    "title": "Omar Giorgetti",
+    "description": "I'm a Data Analyst. Statisticians and almost graduated in Informatic with the experience as Developer in c# and python in Django framework.I'm Business Intelligence Architect and developer."
   }
 }
